@@ -2,7 +2,7 @@ class Feishin < Formula
   desc "Feishu API client"
   homepage "https://github.com/jeffvli/feishin"
   url "https://github.com/jeffvli/feishin/archive/refs/tags/v0.11.1.tar.gz" # Adjust to the latest version
-  sha256 "330d1ff73da10423c3b458a2a525b270375a8349a2cd9346ec90ed729dce4b06"
+  sha256 "1490419f8349d620f062107ef6532e022ff27f0cf7a90333375b4c32d4242bd1"
   license "MIT"
 
   depends_on "go" => :build
